@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Windows.h>
-#include "main.h"
+#include "./signArifmFuncs.h"
 using namespace std;
 
 int main()

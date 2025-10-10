@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "main.h"
+#include "./signArifmFuncs.h"
 
 double sum(double num1, double num2)
 {
